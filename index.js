@@ -10,7 +10,7 @@ const arrayObject=[
     {name: "Nayem", age: 50, temperature: 100}
 ];
 
-function vaxTrial(ArrObject){
+function vaxTrail(ArrObject){
     const A = [];
     const B = [];
     const C= [];
@@ -57,4 +57,4 @@ function Sorting(Value){
     return 0;
 })
 }
-console.log(vaxTrial(arrayObject));
+console.log(vaxTrail(arrayObject));
